@@ -1,4 +1,4 @@
-# Coquette-Shop-Online
+# Coquette Online Store
 
 ## DESCRIPCION DEL PROYECTO
 
