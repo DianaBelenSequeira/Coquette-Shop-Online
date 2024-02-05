@@ -51,12 +51,9 @@ Este proyecto se ejecuta de la siguiente manera:
 
 
 ## ARQUITECTURA 
-`/static` 
-- Archivos estáticos como imágenes de productos.
-`/templates` 
-- Plantillas HTML para las vistas de la aplicación personalizadas con Tailwind CSS.
-`app.py` 
-- El archivo principal de la aplicación Flask que configura la aplicación y define las rutas, gestionando las actualizaciones del administrador.
-`models.py` 
-- Define los modelos para la reacion de la base de datos.
+ 
+- `/static` : Archivos estáticos como imágenes de productos.
+- `/templates` : Plantillas HTML para las vistas de la aplicación personalizadas con Tailwind CSS.
+- `app.py` : El archivo principal de la aplicación Flask que configura la aplicación y define las rutas, gestionando las actualizaciones del administrador. 
+- `models.py` : Define los modelos para la reacion de la base de datos.
 
